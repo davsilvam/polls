@@ -55,7 +55,7 @@ Tecnologias utilizadas no projeto.
 ### Requisitos
 
 - [Node](https://nodejs.org/) e [pnpm](https://pnpm.io/pt/).
-- Teste das chamadas realizados com [HTTPie](https://httpie.io/desktop) e [Hoppscotch](https://hoppscotch.io/pt-br/.
+- Teste das chamadas realizados com [HTTPie](https://httpie.io/desktop) e [Hoppscotch](https://hoppscotch.io/pt-br/).
 
 ```sh
 # Caso não tenha o pnpm, execute:
